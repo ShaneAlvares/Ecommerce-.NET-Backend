@@ -483,3 +483,6 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/appsettings.json
+
+# Cliient App Because I am keeping it in serpreate repo
+client/
